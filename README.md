@@ -1,2 +1,3 @@
 # Bcubical
-a cubical
+its just a cubical so yea
+
